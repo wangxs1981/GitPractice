@@ -1,1 +1,3 @@
-changed user.name and email
+changed user.name and email,
+
+used another ssh key to checkout
