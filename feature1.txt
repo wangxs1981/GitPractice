@@ -12,3 +12,9 @@ change1 on branch feature
 
 change2 on branch feature
 
+
+
+after merged
+
+change3
+
