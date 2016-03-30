@@ -1,3 +1,4 @@
+
 changed user.name and email,
 
 used another ssh key to checkout
@@ -6,3 +7,8 @@ NoexsitDir modified twice
 from exist2
 
 dfdfdfdfdfdfdfdf
+
+change1 on branch feature
+
+change2 on branch feature
+
